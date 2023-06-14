@@ -25,8 +25,8 @@ O Projeto Social Tree consiste em um menu de links que redireciona o usuário pa
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/RmoSedi5rsJEIIqlNGJZqi/DD-%2F-Social-links-(Copy)?node-id=120%3A19&t=moV0mVDhpjqCaBxJ-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/RmoSedi5rsJEIIqlNGJZqi/DD-%2F-Social-links-(Copy)?node-id=120%3A19&t=moV0mVDhpjqCaBxJ-0>).
 
 ---
 
-by Henry Gabriel.
+Por Henry Gabriel.
